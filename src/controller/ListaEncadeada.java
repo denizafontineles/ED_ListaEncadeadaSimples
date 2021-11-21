@@ -2,20 +2,18 @@ package controller;
 
 import com.deniza.utils.ListaEncadeadaInt.ListaEncadeadaInt;
 
-public class ListaEncadeada {
-
-
 /*
- * Escreva uma função que verifique se uma lista encadeada que contém
- * números inteiros está em ordem crescente.
+ * Escreva uma funÃ§Ã£o que verifique se uma lista encadeada que contÃ©m
+ * nÃºmeros inteiros estÃ¡ em ordem crescente.
  * 
  * 
  * 
  *
- * Escreva uma função que faça uma busca em uma lista encadeada crescente.
- * Faça uma versão recursiva e outra iterativa.
+ * Escreva uma funÃ§Ã£o que faÃ§a uma busca em uma lista encadeada crescente.
+ * FaÃ§a uma versÃ£o recursiva e outra iterativa.
  */
 
+public class ListaEncadeada {
 
 	public ListaEncadeada() {
 		super();
